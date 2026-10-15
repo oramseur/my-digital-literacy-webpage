@@ -1,3 +1,3 @@
 # Digital Literacy
 
-!(IMG_0430.JPG)
+![picture of olivia](IMG_0430.JPG)
